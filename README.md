@@ -2,7 +2,7 @@
 
 ![Last updated](https://img.shields.io/badge/last%20updated-2026--07--24-00d4aa)
 ![Series](https://img.shields.io/badge/series-index-1a1a2e)
-![Field-tested](https://img.shields.io/badge/field--tested-yes-f0a500)
+![Practitioner-built](https://img.shields.io/badge/practitioner--built-yes-f0a500)
 ![Licence](https://img.shields.io/badge/licence-CC%20BY%204.0-00d4aa)
 
 Practical, field-tested playbooks for adopting AI at work — one per audience, built on a single spine and drawn from real delivery, not theory.
