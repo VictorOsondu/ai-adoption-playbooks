@@ -25,7 +25,7 @@ The house standard every playbook in the AI Adoption Playbooks series conforms t
 
 The same order in every repo. This is the series fingerprint:
 
-1. **Positioning line + badges** (last-updated, field-tested, licence). Never the official Awesome badge — these aren't awesome-lists.
+1. **Positioning line + badges** (last-updated, provenance, licence). Provenance is honest: `practitioner-built` where the material is built from real work, `field-tested` only where a named, real rollout backs it. Never the official Awesome badge — these aren't awesome-lists.
 2. **Table of Contents** — anchor links to every major section.
 3. **Who this is for.**
 4. **The six stages** — the self-locator callout.
