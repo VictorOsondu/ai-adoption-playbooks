@@ -52,8 +52,8 @@ Shipping in waves, proof-backed first. Status is honest — nothing is listed as
 ### Audience playbooks
 | Repo | For | Status |
 |------|-----|--------|
-| ai-adoption-smb | Small and medium businesses | ⏳ Wave 1 |
-| ai-adoption-church | Churches and ministry teams | ⏳ Wave 1 |
+| [ai-adoption-smb](https://github.com/VictorOsondu/ai-adoption-smb) | Small and medium businesses | ✅ Live (lean) |
+| [ai-adoption-church](https://github.com/VictorOsondu/ai-adoption-church) | Churches and ministry teams | ✅ Live |
 | ai-adoption-education | Schools (K-12) and higher education | ⏳ Wave 2 |
 | ai-adoption-solopreneur | Solo operators and freelancers | ⏳ Wave 3 |
 | ai-adoption-professional | Individual professionals | ⏳ Wave 3 |

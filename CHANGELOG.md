@@ -2,6 +2,12 @@
 
 This project follows [Semantic Versioning](https://semver.org/).
 
+## [0.2.0] — 2026-07-24
+
+### Added
+- Wave 1 playbooks live: [ai-adoption-church](https://github.com/VictorOsondu/ai-adoption-church) (three-tier) and [ai-adoption-smb](https://github.com/VictorOsondu/ai-adoption-smb) (lean launch).
+- Index roster updated with live links and status.
+
 ## [0.1.0] — 2026-07-24
 
 ### Added
