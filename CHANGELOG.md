@@ -2,6 +2,13 @@
 
 This project follows [Semantic Versioning](https://semver.org/).
 
+## [0.5.0] — 2026-07-24
+
+### Added
+- Related-work tracks live: [ai-data-privacy-playbook](https://github.com/VictorOsondu/ai-data-privacy-playbook) (Track C), [ai-incident-library](https://github.com/VictorOsondu/ai-incident-library) and [ai-governance-kit](https://github.com/VictorOsondu/ai-governance-kit) (Track D).
+- [ai-agent-landscape](https://github.com/VictorOsondu/ai-agent-landscape) (Track B) added as a scaffold — publishes once seeded with actually-tested entries.
+- Full portfolio: 13 repositories across four tracks.
+
 ## [0.4.0] — 2026-07-24
 
 ### Added

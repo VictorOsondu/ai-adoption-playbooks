@@ -63,10 +63,10 @@ Shipping in waves, proof-backed first. Status is honest — nothing is listed as
 
 Adjacent assets, each its own track with its own logic — linked here, not folded in:
 
-- **ai-agent-landscape** — an evaluated, quarterly-tested reference on AI agents (tested, not hyped). ⏳ Planned.
-- **ai-data-privacy-playbook** — an AI-era data and privacy playbook, backed by the [ai-data-practices-checker](https://github.com/VictorOsondu/ai-data-practices-checker) extension. ⏳ Planned.
-- **ai-incident-library** — a curated library of real AI failures as teaching cases. ⏳ Planned.
-- **ai-governance-kit** — procurement, board policy, and data-practices templates. ⏳ Planned.
+- **[ai-data-privacy-playbook](https://github.com/VictorOsondu/ai-data-privacy-playbook)** — an AI-era data and privacy playbook, backed by the [ai-data-practices-checker](https://github.com/VictorOsondu/ai-data-practices-checker) extension. ✅ Live.
+- **[ai-incident-library](https://github.com/VictorOsondu/ai-incident-library)** — a curated library of real, sourced AI failures as teaching cases. ✅ Live.
+- **[ai-governance-kit](https://github.com/VictorOsondu/ai-governance-kit)** — procurement, board policy, and data-practices templates. ✅ Live.
+- **[ai-agent-landscape](https://github.com/VictorOsondu/ai-agent-landscape)** — an evaluated, quarterly-tested reference on AI agents (tested, not hyped). 🚧 Scaffold — publishes once seeded with tested entries.
 
 ## The house standard
 
