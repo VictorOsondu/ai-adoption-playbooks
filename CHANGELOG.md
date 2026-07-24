@@ -2,6 +2,11 @@
 
 This project follows [Semantic Versioning](https://semver.org/).
 
+## [0.3.0] — 2026-07-24
+
+### Added
+- Wave 2 playbook live: [ai-adoption-education](https://github.com/VictorOsondu/ai-adoption-education) (Schools K-12 + Higher Education).
+
 ## [0.2.0] — 2026-07-24
 
 ### Added
