@@ -55,9 +55,9 @@ Shipping in waves, proof-backed first. Status is honest — nothing is listed as
 | [ai-adoption-smb](https://github.com/VictorOsondu/ai-adoption-smb) | Small and medium businesses | ✅ Live (lean) |
 | [ai-adoption-church](https://github.com/VictorOsondu/ai-adoption-church) | Churches and ministry teams | ✅ Live |
 | [ai-adoption-education](https://github.com/VictorOsondu/ai-adoption-education) | Schools (K-12) and higher education | ✅ Live (lean) |
-| ai-adoption-solopreneur | Solo operators and freelancers | ⏳ Wave 3 |
-| ai-adoption-professional | Individual professionals | ⏳ Wave 3 |
-| ai-adoption-leaders | Business leaders and boards | ⏳ Wave 3 |
+| [ai-adoption-solopreneur](https://github.com/VictorOsondu/ai-adoption-solopreneur) | Solo operators and freelancers | ✅ Live (lean) |
+| [ai-adoption-professional](https://github.com/VictorOsondu/ai-adoption-professional) | Individual professionals | ✅ Live (lean) |
+| [ai-adoption-leaders](https://github.com/VictorOsondu/ai-adoption-leaders) | Business leaders and boards | ✅ Live (lean) |
 
 ## Related work
 

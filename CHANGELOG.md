@@ -2,6 +2,11 @@
 
 This project follows [Semantic Versioning](https://semver.org/).
 
+## [0.4.0] — 2026-07-24
+
+### Added
+- Wave 3 playbooks live — Track A audience series complete: [solopreneur](https://github.com/VictorOsondu/ai-adoption-solopreneur), [professional](https://github.com/VictorOsondu/ai-adoption-professional), [leaders](https://github.com/VictorOsondu/ai-adoption-leaders).
+
 ## [0.3.0] — 2026-07-24
 
 ### Added
