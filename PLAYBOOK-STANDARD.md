@@ -46,11 +46,39 @@ Adapted from the Awesome-list blueprint. It governs the curated components, neve
 - Seed with a vetted set; never ship an empty resources section.
 - Curation means saying no more than yes. Signal-to-noise is the whole value.
 
+## Source Adaptation Standard
+
+External playbooks and organisational case studies can strengthen the series, but they do not replace authored judgement.
+
+- Record any source-derived pattern in the affected repo's `sources.md`.
+- Prefer primary sources, official guidance, and first-party practitioner accounts; state what kind of evidence each source provides.
+- Treat a company's public playbook as evidence of its reported practice, not independent proof that the practice works everywhere.
+- Adapt the operating idea to the audience, risk context, house terminology, and existing canonical tools instead of copying a foreign framework wholesale.
+- Preserve the distinction between `practitioner-built`, `sourced`, and `field-tested`.
+- Credit copied or closely adapted CC BY material, link the licence and source, and say that changes were made.
+- Do not imply that a source organisation endorses this series.
+- Reject source ideas that create coercion, surveillance, false assurance, terminology collisions, or conflict with the identity-led model and governance boundaries.
+
 ## Community standard
 
 - **Root hygiene files** in every repo: README, CONTRIBUTING, CODE_OF_CONDUCT, CHANGELOG, LICENSE.
 - **CONTRIBUTING differs by repo:** playbooks invite corrections, case studies, and translations; reference repos invite entries judged against a published bar; `resources/` sections invite vetted links in the strict format above.
 - **PR discipline:** reviewed as promptly as a one-person team reasonably can — an aspiration, not a public SLA. Rejections are polite and give a clear reason.
+
+## Content validation standard
+
+Every repository uses:
+
+- `main` as the default branch;
+- a checked-in `.markdownlint-cli2.jsonc` profile;
+- a pull-request workflow that runs a pinned Markdown linter on Node 22;
+- an offline link check for relative files and document paths; and
+- an external link check once the repository is public, with rate-limit and
+  bot-blocking responses handled explicitly rather than silently ignored.
+
+The shared Markdown profile catches structural and whitespace defects while
+allowing the series' established prose-line, compact-table, and emphasised-label
+styles. A raw default-rule count isn't used as a launch-quality metric.
 
 ## Licence
 

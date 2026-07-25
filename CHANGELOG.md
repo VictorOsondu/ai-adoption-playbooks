@@ -2,6 +2,20 @@
 
 This project follows [Semantic Versioning](https://semver.org/).
 
+## [0.7.0] — 2026-07-25
+
+### Changed
+- Replaced stale "Live" labels with an authoritative roster that distinguishes public repositories from local launch candidates.
+- Restored the church playbook and added Emerging AI Jobs and Awesome AI Search Readiness to the portfolio.
+- Marked AI Agent Landscape as explicitly outside this launch-readiness pass.
+- Added the shared Markdown and local-link validation standard used by launch-candidate repositories.
+
+## [0.6.0] — 2026-07-24
+
+### Added
+- Source adaptation standard for using external organisational playbooks without weakening provenance, terminology, governance, or the canonical identity-led model.
+- Expanded toolkit description covering programme ownership, pilots, onboarding, communities, use cases, and adoption measurement.
+
 ## [0.5.0] — 2026-07-24
 
 ### Added
