@@ -18,6 +18,7 @@ This repository is the **index** for the series. Start here, then follow the lin
 - [The house standard](#the-house-standard)
 - [Provenance](#provenance)
 - [Free vs done-with-you](#free-vs-done-with-you)
+- [Attribution & reuse](#attribution--reuse)
 
 ## The idea
 
@@ -102,6 +103,16 @@ External organisational playbooks are treated as reported practitioner cases. Us
 ## Free vs done-with-you
 
 Everything in the series is free to use and adapt under CC BY 4.0. The paid layer — tailored rollout design, AI literacy documentation, audit-trail support, and done-with-you implementation — is the work [AI Tutorium](https://aitutorium.com) does. The playbooks are the free part.
+
+## Attribution & reuse
+
+This series is built on two of Victor Osondu's frameworks: **The Six Stages of AI Adoption** (the identity-based adoption model) and the **ICE Method** — Improve, Create, Educate. The canonical, maintained source for the model is the [ai-adoption-model](https://github.com/VictorOsondu/ai-adoption-model) repo.
+
+Everything across these repos is licensed under **CC BY 4.0**. You're free to share it, adapt it, and use it commercially. The one condition is that you credit the source. If you reuse or build on this material, keep a line like:
+
+> Based on The Six Stages of AI Adoption and the ICE Method by Victor Osondu / AI Tutorium — https://aitutorium.com
+
+To cite the framework formally (including the archived DOI), see [How to cite](https://github.com/VictorOsondu/ai-adoption-model#how-to-cite).
 
 ---
 
